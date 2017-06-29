@@ -1,4 +1,4 @@
-package aula13.labs;
+package aula13labs;
 
 public class Questao01 {
 
